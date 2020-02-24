@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Age</string>
+    <string name="yourage">Your Age</string>
+    <string name="bt">Find Age</string>
+    <string name="enter_the_year">Enter the Year</string>
+
+</resources>
